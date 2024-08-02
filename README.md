@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/profile/singhrahulbrije1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/singhrahulbrije1" height="30" width="40" /></a> 
 <a href="https://public.tableau.com/app/profile/rahul.singh5386/vizzes" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tableau_Logo.svg" alt="Tableau Profile" height="30" width="40" />
+  <img align="center" src="https://github.com/singhrahulbrijesh/singhrahulbrijesh/blob/main/tableau-software.svg" alt="Tableau Profile" height="30" width="40" />
 </a>
 </p>
 
