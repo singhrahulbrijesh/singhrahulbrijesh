@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I’m Rahul! </h1>
-<h3 align="center">A passionate Business Data Analyst | AI Researcher</h3>
+<h1 align="center">Hi 👋, I’m Rahul! </h1>
+<h3 align="center">A passionate Data Scientist | AI Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhrahulbrijesh&label=Profile%20views&color=0e75b6&style=flat" alt="singhrahulbrijesh" /> </p>
 
