@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rahul Singh</h1>
+<h1 align="center">Hi, I’m Rahul! I’m a dedicated Data Scientist with over 4 years of experience in AI and machine learning, passionate about pushing the boundaries of what’s possible with data. My expertise spans from AI research to crafting efficient, scalable code, and I’m particularly interested in tackling complex challenges that drive innovation.
+
+Currently, I’m immersed in the exciting world of Large Language Models (LLMs), exploring their transformative applications in natural language processing and other advanced areas. Through my work, I aim to make AI solutions that are as impactful as they are insightful.
+
+Let’s connect, collaborate, and explore the future of AI together!</h1>
 <h3 align="center">A passionate Business Data Analyst | AI Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhrahulbrijesh&label=Profile%20views&color=0e75b6&style=flat" alt="singhrahulbrijesh" /> </p>
