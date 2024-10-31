@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhrahulbrijesh" alt="singhrahulbrijesh" /></a> </p>
 
-- 🔭 I’m currently working on **Automated Code using LLM**
+- 🔭 I’m currently working on **Large language research paper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
