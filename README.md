@@ -30,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhrahulbrijesh&show_icons=true&locale=en&layout=compact" alt="singhrahulbrijesh" /></p>
 
-can you correct the alignment 
